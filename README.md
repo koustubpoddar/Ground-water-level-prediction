@@ -1,0 +1,1 @@
+This project aims to predict possible ground water levels based on soil properties such as conductivity and resistivity. It also includes explainable AI (SHAP) to further explain impact of parameters of soil impacting the model's output.
